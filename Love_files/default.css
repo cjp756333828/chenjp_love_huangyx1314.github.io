@@ -83,3 +83,9 @@ a {
 .space {
 	margin-right: 150px;
 }
+.audio-container {
+  position: fixed;
+  top: 10px; /* 调整按钮距离屏幕顶部的距离 */
+  left: 50%;
+  transform: translateX(-50%);
+}
